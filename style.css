@@ -1,16 +1,18 @@
 #jogo{
   width: 603px;
   height: 600px;
-  border: double 3px;
-  border-color: blue;
+  border: solid 3px;
+  border-color: aqua;
 }
 .linha{
   height: 200px;
-  border-bottom: solid 3px;
+  border-bottom: solid 1px;
+  border-color: aqua;
 }
 .casa{
   width: 200px;
   height: 100%;
-  border-right: solid 3px;
-  float:left;
+  border-right: solid 1px;
+  float: left;
+  color: aqua;
 }
